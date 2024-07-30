@@ -2,6 +2,7 @@
 
 Maintained by B. Jones
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brycej0nes/Bryce-s-Repo/main)
 
 ### Data and Viz of Interest
 
